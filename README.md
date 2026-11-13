@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>FORM FIT | Smart Training System</title>
-
+ 
 <style>
 :root {
   --bg: #080d19;
